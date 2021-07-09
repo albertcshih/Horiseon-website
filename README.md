@@ -10,3 +10,5 @@ Screenshot of Website representing close to mockup:
 1. ![top-half-website](https://user-images.githubusercontent.com/85843152/125108019-161b9a00-e0a7-11eb-9516-152a62bfbea4.PNG)
 
 2.![bottom-half-website](https://user-images.githubusercontent.com/85843152/125108076-25024c80-e0a7-11eb-857d-18424a5bf5c2.PNG)
+
+3.![mid-website](https://user-images.githubusercontent.com/85843152/125108169-495e2900-e0a7-11eb-93fd-6200eb046438.PNG)
